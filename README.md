@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DineshPKumar
+- 👋 Hi, I’m @PDineshKumar
 - 👋 I'm a Statistician.
 - 👀 I’m interested in Remote sensing and coding.
 - 👀 I’m familiar with R coding and QGIS.
